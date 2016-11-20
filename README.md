@@ -5,9 +5,8 @@ For first release I'll simply create regexp for such type of code:
 ```
 ```python
 here are your code
+\```
 ``` 
-`` ` ```` ` ```` ` ``
-
 
 and will test this tool.
 
