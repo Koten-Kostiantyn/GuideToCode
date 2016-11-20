@@ -1,3 +1,19 @@
+#Hello! this is GudeToCode project.
+
+The main idea is to write gide in markdown for some application, which can be compiled as program.
+For first release I'll simply create regexp for such type of code:
+```
+```python
+here are your code
+ ```
+```
+
+and will test this tool.
+
+Run it `python gtc.py app.mdpy`
+
+### For now, stop reading, there is test page down below, it makes no sence =)
+
 ```GuideToCode 1.0 supported```
 # GuideToCode That's markdown!
 here ```code``` and `here code with "comment" also \` this /`is`|  not code =( `
