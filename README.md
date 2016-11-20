@@ -75,3 +75,37 @@ in a block
 this should work fine ```
 ```
 ok?
+
+
+list:
+actionscript3
+bash
+clojure
+coldfusion
+cpp
+csharp
+css
+delphi
+diff
+erlang
+fsharp
+go
+groovy
+html
+java
+javafx
+javascript
+latex (you can also render LaTeX)
+matlab (keywords only)
+objc
+perl
+php
+powershell
+python
+r
+ruby
+scala
+sql
+text
+vb
+xml
