@@ -2,11 +2,11 @@
 
 The main idea is to write gide in markdown for some application, which can be compiled as program.
 For first release I'll simply create regexp for such type of code:
-```
+~~~~
 ```python
 here are your code
-\```
-``` 
+```
+~~~~
 
 and will test this tool.
 
